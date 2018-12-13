@@ -7,7 +7,7 @@ subtitle: To help educate evolutionary biologists about the kinds of questions t
 Our coordinated reading groups will meet every two weeks to discuss two papers covering each of a series of topics in marine and evolutionary biology.  Groups participating in these discussions can meet at their home institutions once during each two-week period (any time during the two weeks is fine), either as part of a lab meeting or another seminar or journal club.  Participants will discuss the papers listed for that week, and address the discussion questions provided with each topic.  For each topic, the group should then choose one person to summarize the group’s reaction to the papers and discussion questions on a Slack channel we have set up to facilitate discussions at [evolvingseas.slack.com](evolvingseas.slack.com). Discussion groups can also use the thread feature in Slack to post additional questions, and react to comments or questions posed by other groups.
 
 ## Theme and rationale
-For our first set of coordinated readings, we decided to focus the scale of spatial and temporal variability in the ocean, with a focus on how this variability may influence evolutionary processes. We are interested to have discussions about how adaptive change in populations may be structured in space in time, particularly below the scale of gene flow. Some of the readings were also designed to spark discussions about what constitutes evidence for adaptation and how we should design studies to study adaptation. Keep in mind there are many themes that we hope to discuss in the future (e.g., plasticity, evolutionary rescue, eco-evo dynamics and evolution in a community context, epigenetics) if this first set of coordinated readings is successful.
+For our first set of coordinated readings, we decided to examine the scale of spatial and temporal variability in the ocean, with a focus on how this variability may influence evolutionary processes. We are interested to have discussions about how adaptive change in populations may be structured in space and time, particularly below the scale of gene flow. Some of the readings were also designed to spark discussions about what constitutes evidence for adaptation and how we should design studies to study adaptation. Keep in mind there are many themes that we hope to discuss in the future (e.g., plasticity, evolutionary rescue, eco-evo dynamics and evolution in a community context, epigenetics) if this first set of coordinated readings is successful.
 
 We encourage all participants who would like to attend one of our workshops in the next three years (Synthesis, Genomics, or Training/Integration) to pariticipate in the discussions on the Slack channel.
 
@@ -17,7 +17,7 @@ We encourage all participants who would like to attend one of our workshops in t
 
 **Rationale:**
 
-The ocean is structured in space and time, which is comprised of benthic structure and pelagic structure. While benthic structure is similar to strcuture in terrestrial systems, there are only weak terrestrial parallels to pelagic structure which is critical to both habitat pattern and dispersal in the ocean. This week we want the RCN to think about how the scales of environmental variabiilty is reflected in evolution of marine populations.
+The ocean is structured in space and time, both in the benthic and pelagic realms. While benthic structure is similar to strcuture in terrestrial systems, there are only weak terrestrial parallels to pelagic structure which is critical to both habitat pattern and dispersal in the ocean. This week we want the RCN to think about how the scales of environmental variabiilty are reflected in evolution of marine populations.
 
 **Paper 1:**  (Paper and Link)
 
@@ -66,9 +66,9 @@ François Blanquart, Oliver Kaltz, Scott L. Nuismer & Sylvain Gandon
 
 **Discussion Questions:**
 
-1. What are the implications for how we individually define local adaptation on how we study it and what we think about the processes that drive it?
+1. What are the implications of how we individually define local adaptation for how we study it and what we think about the processes that drive it?
 
-2. What definition of local adaption should we (the RCN-ECS network) should use?
+2. What definition of local adaption should we (the RCN-ECS network) use?
 
 
 ## Week 3 (February 16):
@@ -77,7 +77,7 @@ François Blanquart, Oliver Kaltz, Scott L. Nuismer & Sylvain Gandon
 
 **Rationale:**
 
-Many consider reciprocal transplant to be the gold standard for demonstrating local adaptation, but recently genomic data collected from different populations has been used to argue for local adaptation. This week we want the RCN to compare and constrast different approaches toward measuring local adaptation.
+Many consider reciprocal transplant experiments to be the gold standard for demonstrating local adaptation, but recently genomic data collected from different populations has been used to argue for local adaptation. This week we want the RCN to compare and constrast different approaches toward measuring local adaptation.
 
 **Paper 1:**  (Paper and Link)
 
@@ -95,9 +95,11 @@ Bryan Kolaczkowski, Andrew D. Kern, Alisha K. Holloway & David J. Begun
 
 **Discussion Questions:**
 
+**Perhaps switch questions 1 and 2?***
+
 1. When does landscape genomic data present good evidence of local adaptation (without experiments)?
 
-2. How do the different research approaches (experiment vs. genomic) give different insights?
+2. How do the different research approaches (experiment vs. genomic) give different insights? 
 
 3. How are the processes that drive local adaptation in the snail differ from the fly? How are they similar?
 
@@ -129,7 +131,7 @@ H. Allen Orr
 
 **Discussion Questions:**
 
-1. What kind of genomic architectures to expect to evolve under high gene flow?
+1. What kind of genomic architectures do we expect to evolve under high gene flow?
 
 2. How does genomic architecture constrain adaptation?
 
@@ -195,7 +197,7 @@ Richard R. Hudson
 
 **Discussion Questions:**
 
-1. What are the implications for sweepstakes reproduction on how we model evolutionary processes in the ocean?
+1. What are the implications of sweepstakes reproduction for how we model evolutionary processes in the ocean?
 
 2. Given the complexity of marine dispersal dynamics, do you think that we as a field should adopt the Bradburd et al approach for characterizing population structure?
 
@@ -231,7 +233,7 @@ Aneil F. Agrawal & Michael C. Whitlock
 
 1. What's the relationship between phenotype-environment mismatches and genetic load?
 
-2. How does dispersal scale and the scale of environmentalal heterogeneity contribute to genetic load?
+2. How does dispersal scale and the scale of environmental heterogeneity contribute to genetic load?
 
 ## Week 8 (April 27):
 
@@ -257,7 +259,7 @@ Meike J. Wittmann, Alan O. Bergland, Marcus W. Feldman, Paul S. Schmidt & Dmitri
 
 **Discussion Questions:**
 
-1. What consitutes good evidence for fluctuating selection, especially if its maintained by many loci with small effects?
+1. What consitutes good evidence for fluctuating selection, especially if it's maintained by many loci with small effects?
 
 2. What are the benefits (or consequences) of fluctuating selection for long-term changes in the environment?
 
@@ -265,7 +267,7 @@ Meike J. Wittmann, Alan O. Bergland, Marcus W. Feldman, Paul S. Schmidt & Dmitri
 
 ### Topic: Plasticity
 
-**Rationale:** Plasticity is the environmentally induced production of alternate phenotypes from a given genotype (Dewitt and Scheiner 2004). While the evolution of plasticity and the effects of plasticity on the evolutionary trajectory of populations are huge topics, this week we wanted to contrast a classic and more recent study in which plasticity evolved.
+**Rationale:** Plasticity is the environmentally induced production of alternate phenotypes from a given genotype (Dewitt and Scheiner 2004). While the evolution of plasticity and the effects of plasticity on the evolutionary trajectory of populations are huge topics, this week we want to contrast a classic and more recent study in which plasticity evolved.
 
 **Paper 1:**  (Paper and Link)
 
